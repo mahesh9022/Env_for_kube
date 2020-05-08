@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "env_for_kube/1.0.0": {
+        "runtime": {
+          "env_for_kube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "env_for_kube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

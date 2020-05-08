@@ -1,0 +1,11 @@
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.exe
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.deps.json
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.runtimeconfig.json
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.runtimeconfig.dev.json
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.dll
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\bin\Debug\netcoreapp3.1\env_for_kube.pdb
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\obj\Debug\netcoreapp3.1\env_for_kube.csprojAssemblyReference.cache
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\obj\Debug\netcoreapp3.1\env_for_kube.AssemblyInfoInputs.cache
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\obj\Debug\netcoreapp3.1\env_for_kube.AssemblyInfo.cs
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\obj\Debug\netcoreapp3.1\env_for_kube.dll
+C:\Users\MaheshkumarPrahladVi\source\repos\file-to-env\obj\Debug\netcoreapp3.1\env_for_kube.pdb
